@@ -1,7 +1,7 @@
-reference thsi link when downgrading to upgradin node
+reference this link when downgrading to upgrading node
 
-this is for chnging to aprevious version of node
+this is for changing to previous version of node
 sudo n 10.16.0
 
-chnaging to most stable version
+changing to most stable version
 sudo n stable
