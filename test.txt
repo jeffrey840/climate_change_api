@@ -1,1 +1,7 @@
-testing
+reference thsi link when downgrading to upgradin node
+
+this is for chnging to aprevious version of node
+sudo n 10.16.0
+
+chnaging to most stable version
+sudo n stable
