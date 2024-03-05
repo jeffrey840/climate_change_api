@@ -8,7 +8,7 @@ router.get('/',(req,res) => {
 
 	res.json({
 
-		'test 2 ':'Hi'
+		'test 3 ':'Hi'
 
 	})
 })
